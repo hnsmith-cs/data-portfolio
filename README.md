@@ -15,3 +15,6 @@ Created from the Power BI example dataset illustrating a fiscal overview, market
 
 
 ## Microsoft Excel
+1. Churn Analysis - ![Telco Churn Analysis](https://github.com/hnsmith-cs/telco-churn-analysis)
+
+Utilizing a step-by-step guide by Data Demystified, this repository analyzes the types of churn analysis done in Excel.
